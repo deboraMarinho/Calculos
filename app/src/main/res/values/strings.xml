@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Calculos</string>
+    <string name="calculoFgts">Calcular FGTS</string>
+    <string name="botaoInss">Calcular INSS</string>
+    <string name="calculoValorHora">Calular Valor Hora</string>
+    <string name="salario">Informe o valor do Salario</string>
+    <string name="diaSemana">Informe Dias Uteis Semanais</string>
+    <string name="horaSemana">Informe Horas Semanais</string>
+    <string name="diaMes">Informe Dias do Mes</string>
+    <string name="botaoHoraSalario">Calcular Valor Hora</string>
+    <string name="botaoFonteHora">Fonte Hora</string>
+    <string name="salarioBruto">Informe Salario Bruto</string>
+    <string name="botaoFonteInss">Fonte INSS</string>
+</resources>
